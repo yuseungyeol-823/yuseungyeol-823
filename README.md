@@ -4,7 +4,24 @@ Java · Spring / React 프런트엔드 / IoT / 머신러닝
 
 ### Tech Stack
 
-<img src="https://img.shields.io/badge/Java-334155?style=flat-square" alt="Java" /> <img src="https://img.shields.io/badge/Spring_Boot-334155?style=flat-square&logo=springboot&logoColor=6DB33F" alt="Spring Boot" /> <img src="https://img.shields.io/badge/MySQL-334155?style=flat-square&logo=mysql&logoColor=60a5fa" alt="MySQL" /> <img src="https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=60a5fa" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=facc15" alt="Python" /> <img src="https://img.shields.io/badge/PyTorch-334155?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+<table>
+<tr>
+<td><b>Backend</b></td>
+<td><img alt="Java" src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img alt="JPA" src="https://img.shields.io/badge/JPA-477A32?style=for-the-badge&logo=spring&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" /> <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /></td>
+</tr>
+<tr>
+<td><b>Machine Learning</b></td>
+<td><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-298C55?style=for-the-badge" /> <img alt="CatBoost" src="https://img.shields.io/badge/CatBoost-9A7611?style=for-the-badge" /></td>
+</tr>
+<tr>
+<td><b>IoT & Tools</b></td>
+<td><img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" /> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></td>
+</tr>
+</table>
 
 ### Projects
 
