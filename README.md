@@ -1,6 +1,6 @@
 ## yuseungyeol
 
-Java · Spring 백엔드 개발 / IoT / 머신러닝
+Java · Spring / React 프런트엔드 / IoT / 머신러닝
 
 ### Tech Stack
 
@@ -10,6 +10,7 @@ Java · Spring 백엔드 개발 / IoT / 머신러닝
 
 | 프로젝트 | 설명 · 담당 작업 |
 | :--- | :--- |
+| **[YeoBi · 모임 가계부](https://github.com/y-jh107/AdvICE-Team1)** | 2025 · React·Vite 프런트엔드<br>캘린더·환율 그래프 화면 및 API 연동 수정<br>영수증 조회, 마이페이지·그룹 UI 개선 |
 | **[마디](https://github.com/14thLikeLion5TeamHackathon/BE)** | 시술 후 회복 관리 서비스 · 팀 해커톤<br>날씨·환경 지표 API, OpenWeatherMap 연동<br>Google Calendar 연동, 토큰 갱신과 예외 처리 |
 | **[AetherSpace](https://github.com/yuseungyeol-823/iot-web-dashboard)** | IoT 좌석 점유·자동 반납 관제 대시보드<br>React·Spring Boot 기반 SSE 상태 동기화<br>카메라 스트리밍과 센서 연결 끊김 처리 |
 | **[Lions PBL Archive](https://github.com/yuseungyeol-823/Lions-PBL-Archive)** | Java·Spring 학습 프로젝트<br>회원·과제 관리 API, JPA·MySQL 연동<br>전역 예외 처리와 Swagger 문서화 |
@@ -38,3 +39,4 @@ Java · Spring 백엔드 개발 / IoT / 머신러닝
 - 월별 총예산 설정·조회 API 구현
 - 리포트와 연동할 소비 내역(Transaction) DB 계층 구현
 - API 명세에 맞춰 공통 응답 형식과 HTTP 상태 코드 수정
+
