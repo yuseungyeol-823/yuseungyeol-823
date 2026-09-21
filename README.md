@@ -20,12 +20,12 @@ Java · Spring / React 프런트엔드 / IoT / 머신러닝
 | **[AetherSpace](https://github.com/yuseungyeol-823/iot-web-dashboard)** | IoT 좌석 점유·자동 반납 관제 대시보드<br>React·Spring Boot 기반 SSE 상태 동기화<br>카메라 스트리밍과 센서 연결 끊김 처리 |
 | **[Lions PBL Archive](https://github.com/yuseungyeol-823/Lions-PBL-Archive)** | Java·Spring 학습 프로젝트<br>회원·과제 관리 API, JPA·MySQL 연동<br>전역 예외 처리와 Swagger 문서화 |
 | **[월별 예산·소비 관리](https://github.com/likelion14th-6team/BE)** <sub>Private</sub> | 월별 예산 설정·조회 API<br>소비 내역 DB 계층과 공통 응답 처리 |
-| **[LG Aimers · 모델 실험](https://github.com/LGAimers-9th-Hufs/lg-aimers-ysy)** <sub>Private</sub> | 투구 제구 성공 확률 예측<br>모델 비교, 시간순 검증, 확률 보정·앙상블 |
+| **[LG Aimers · 모델 실험](https://github.com/LGAimers-9th-Hufs/lg-aimers-ysy-public)** | 투구 제구 성공 확률 예측<br>모델 비교, 시간순 검증, 확률 보정·앙상블 |
 
 <sub>Private 저장소 링크는 접근 권한이 있는 계정에서 열립니다.</sub>
 
-### Private Projects
+### Project Details
 
-#### [LG Aimers 9기 — 투구 제구 성공 확률 예측](https://github.com/LGAimers-9th-Hufs/lg-aimers-ysy)
+#### [LG Aimers 9기 — 투구 제구 성공 확률 예측](https://github.com/LGAimers-9th-Hufs/lg-aimers-ysy-public)
 
-[팀 저장소](https://github.com/LGAimers-9th-Hufs/LG-Aimers-Pitch-Command-Hackathon) · [개인 실험 저장소](https://github.com/LGAimers-9th-Hufs/lg-aimers-ysy)
+[팀 저장소](https://github.com/LGAimers-9th-Hufs/LG-Aimers-Pitch-Command-Hackathon) · [공개 실험 저장소](https://github.com/LGAimers-9th-Hufs/lg-aimers-ysy-public)
